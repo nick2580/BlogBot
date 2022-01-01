@@ -1,0 +1,7 @@
+google_api_python_client==2.33.0
+google_auth_oauthlib==0.4.2
+language_tool_python==2.6.1
+nltk==3.6.2
+protobuf==3.19.1
+requests==2.26.0
+youtube_transcript_api==0.4.1
