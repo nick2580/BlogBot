@@ -2,7 +2,6 @@
 
 BlogBot is a Python script that create blogs from YouTube videos.
 
-Visit [BlogBot](https://www.blogbot.in) to read blogs created from script.
 
 ## Installation
 
